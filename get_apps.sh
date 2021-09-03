@@ -24,3 +24,5 @@ brew install tree
 brew install watch
 brew install nano
 brew install htop
+brew install kubectl
+
