@@ -30,6 +30,9 @@ brew install terragrunt
 brew install azure-cli
 brew install direnv
 brew install telnet
+brew install minikube
+brew install k9s
+brew install helm
 
 # Cask
 brew install --cask boxcryptor
@@ -41,3 +44,4 @@ brew install --cask opera
 brew install --cask firefox
 brew install --cask microsoft-remote-desktop
 brew install --cask spotify
+brew install --cask telegram

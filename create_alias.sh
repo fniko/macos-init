@@ -18,6 +18,7 @@ aliases_list=(
   "l='ls -CF'"
   "tg='terragrunt'"
   "p='python3'"
+  "mk='minikube'"
 )
 
 # Check if alias exists and if not add it
